@@ -3,7 +3,7 @@
 
 ### Flowchart:
 
-![Q1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q1](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Homework/Q1.PNG)
 
 #### Pseudocode:
 - START
@@ -16,7 +16,7 @@
 
 #### Flowchart:
 
-![Q2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q2](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Homework/Q2.PNG)
 
 #### Pseudocode:
 - START
@@ -29,7 +29,7 @@
 
 #### Flowchart:
 
-![Q3](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q3](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Homework/Q3.PNG)
 
 #### Pseudocode:
 - START
@@ -42,7 +42,7 @@
 ### Question 4: Two numbers a and b are given, find which is greater, if both are equal print the same.
 
 ### Flowchart:
-![Q4](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q4](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Homework/Q4.PNG)
 
 #### Pseudocode:
 - START
@@ -55,7 +55,7 @@
 ### Question 5: A number is given, find if it is positive or negative or zero.
 
 ### Flowchart:
-![Q5](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q5](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Homework/Q5.PNG)
 
 #### Pseudocode:
 - START
@@ -65,10 +65,10 @@
 - ELSE   WRITE "NEGATIVE"
 - END
 
-### Question 5: Find the factorial of a given number.
+### Question 6: Find the factorial of a given number.
 
 #### Flowchart:
-![Q6](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q6](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Homework/Q6.PNG)
 
 #### Pseudocode:
 - START

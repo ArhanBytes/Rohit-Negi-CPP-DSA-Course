@@ -2,7 +2,7 @@
 ### Question 1: Sum of two Numbers
 #### Flowchart:
 
-![Q1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q1](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/sumOfTwo.PNG)
 
 #### Pseudocode:
 - START
@@ -14,7 +14,7 @@
 ### Question 2: Average of two Numbers
 
 #### Flowchart:
-![Q2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q2](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/avgOfTwo.PNGG)
 
 #### Pseudocode:
 - START
@@ -26,7 +26,7 @@
 ### Question 3: Cube of a number
 
 #### Flowchart:
-![Q3](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q3](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/CubeOfNum.PNG)
 
 #### Pseudocode:
 - START
@@ -37,7 +37,7 @@
 
 ### Question 4: Is it raining or not
 #### Flowchart:
-![Q4](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q4](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/isRaining.PNG)
 
 #### Pseudocode:
 - START
@@ -50,7 +50,7 @@
 
 ### Question 5: Even or Odd
 #### Flowchart:
-![Q5](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q5](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/EvenOrOdd.PNG)
 
 #### Pseudocode:
 - START
@@ -63,7 +63,7 @@
 
 ### Question  6: Print number n times.
 #### Flowchart:
-![Q6](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q6](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/printNo_nTimes.PNG)
 
 #### Pseudocode:
 - 1: START
@@ -77,7 +77,7 @@
 
 ### Question  7: Print n natural numbers
 #### Flowchart:
-![Q7](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q7](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/printN_naturalNos.PNG)
 
 #### Pseudocode:
 - 1: START
@@ -91,7 +91,7 @@
 
 #### Question  8: Sum of n natural numbers
 #### Flowchart:
-![Q8](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q8](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/sumOfN_naturalNos.PNG)
 
 ### Pseudocode:
 - 1: START
@@ -107,7 +107,7 @@
 
 ### Question  9: Prime or Not Prime
 #### Flowchart:
-![Q9](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Q9](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/IsPrime.PNG)
 
 #### Pseudocode:
 - START
