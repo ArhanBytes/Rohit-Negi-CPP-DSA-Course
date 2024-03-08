@@ -14,7 +14,7 @@
 ### Question 2: Average of two Numbers
 
 #### Flowchart:
-![Q2](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/avgOfTwo.PNGG)
+![Q2](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_002/Lecture_Code/avgOfTwo.PNG)
 
 #### Pseudocode:
 - START
