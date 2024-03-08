@@ -8,11 +8,13 @@ The solution is to use a data type that can handle larger numbers:
 
 - If you’re calculating factorials of numbers up to 20, you can use long long int in C++.
 - If you’re calculating factorials of larger numbers and can tolerate some loss of precision, you can use double.
+
 **long long int:** 
 ```bash
   long long int fact = 1;
 ```
 - `long long int`: This type can store exact integers up to a certain limit. For factorials, it can accurately calculate the factorial of numbers up to 20. However, it will overflow for factorials of numbers larger than 20.
+
 **double:**
 ```bash
   double fact = 1;
