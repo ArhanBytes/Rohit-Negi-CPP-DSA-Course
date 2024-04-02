@@ -1,5 +1,5 @@
 # Insertion  Sort in C++
-**Q)** What is the time complexity of Bubble sort?
+**Q)** What is the time complexity of Insertion sort?
 
 **Ans)** O(n^2) , Ω(n) , Θ(n^2).
 
