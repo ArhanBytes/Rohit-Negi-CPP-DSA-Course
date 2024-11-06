@@ -1,0 +1,7 @@
+# Two Pointer in C++
+| Problems  | Solution     | Source |
+| :-------- | :-------: | :--------: |
+| [Segregate 0s and 1s](https://www.geeksforgeeks.org/problems/segregate-0s-and-1s5106/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_028/Lecture_Code/segregate_0s_1s.cpp)| GFG |
+| [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_028/Lecture_Code/TwoSum.cpp)| LeetCode |
+| [1011. Capacity To Ship Packages](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_025/Lecture_Code/1011.cpp)| Leetcode |
+| [Split Array Largest Sum](https://www.geeksforgeeks.org/problems/split-array-largest-sum--141634/1?utm_source=geeksforgeeks&utm_medium=article_practice_tab&utm_campaign=article_practice_tab) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_025/Homework/split_array_largest_sum.cpp)| GFG |
