@@ -137,6 +137,28 @@ int main()
 
   // To get the index in binary search
   cout << "Index of 54: " << find(ans.begin(), ans.end(), 54) - ans.begin() << endl;
+/*
+//------- sort
+1: sort(v.begin(),v.end());
+2: sort(v.begin(),v.end(),greater<int>());
 
+// search
+1: bool found = binary_search(v.begin(),v.end(),5);
+2: auto it = find(v.begin(),v.end(),6); // First occurance
+
+// count
+int count = count(v.begin(),v.end(),5);
+
+// Max or min
+int maximum = max_element(v.begin(),v.end());
+
+1: lower_bound(first_iterator, last_iterator, x)
+   returns an iterator pointing to the first element
+   in the range [first,last) which has a value
+   not less than x.
+2: upper_bound(first_iterator, last_iterator, x)
+   returns an iterator pointing to the first element
+   in the range [first,last) which has a value greater than x.
+*/
   return 0;
 }
