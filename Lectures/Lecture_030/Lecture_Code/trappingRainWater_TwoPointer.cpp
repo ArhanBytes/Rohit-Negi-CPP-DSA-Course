@@ -1,50 +1,29 @@
-#include <iostream>
-#include <vector>
-using namespace std;
+class Solution {
+public:
+    int trap(vector<int>& height) {
+        int size = height.size();
+        int s = 0, e = size -1, water = 0;
+        int leftmax = 0, rightmax = 0;
 
-int maxWater(vector<int> &arr) { 
-  
-    int left = 1;
-    int right = arr.size() - 2;
-
-    // lMax : Maximum in subarray arr[0..left-1]
-    // rMax : Maximum in subarray arr[right+1..n-1]
-    int lMax = arr[left - 1];
-    int rMax = arr[right + 1];
-
-    int res = 0;
-    while (left <= right) {
-      
-        // If rMax is smaller, then we can decide the amount of water for arr[right]
-        if (rMax <= lMax) {
-          
-            // Add the water for arr[right]
-            res += max(0, rMax - arr[right]);
-
-            // Update right max
-            rMax = max(rMax, arr[right]);
-
-            // Update right pointer as we have decided the amount of water for this
-            right -= 1;
-        } else { 
-            // Add the water for arr[left]
-            res += max(0, lMax - arr[left]);
-
-            // Update left max
-            lMax = max(lMax, arr[left]);
-
-            // Update left pointer as we have decided water for this
-            left += 1;
+        while(s<e)
+        {
+            if(height[s] < height[e])
+            {
+                if(leftmax > height[s])
+                    water += leftmax - height[s];
+                else
+                    leftmax = height[s];
+                s++;
+            }
+            else
+            {
+                if(rightmax > height[e])
+                    water += rightmax - height[e];
+                else
+                    rightmax = height[e];
+                e--;
+            }
         }
+        return water;
     }
-    return res;
-}
-
-// Driver code
-int main() {
-    vector<int> arr = {2, 1, 5, 3, 1, 0, 4};
-    cout << maxWater(arr) << endl;
-    return 0;
-}
-
-// through GFG
+};
