@@ -1,0 +1,7 @@
+# Recusion Problems
+| Problems                                                                                |                                                               Solution                                                                |     Source      |
+| :-------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+| [Subset Sums](https://www.geeksforgeeks.org/problems/subset-sums2234/1)                 |    [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_062/Lecture_Code/subset_sum.cpp)     |       GFG       |
+| Subset Along with their Sum                                                             | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_062/Homework/subset_along_with_sum.cpp) | System Compiler |
+| Target Sum                                                                              |    [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_062/Lecture_Code/target_sum.cpp)     | System compiler |
+| [Perfect Sum Problem](https://www.geeksforgeeks.org/problems/perfect-sum-problem5633/1) |      [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_062/Homework/perfect_sum.cpp)      |       GFG       |
