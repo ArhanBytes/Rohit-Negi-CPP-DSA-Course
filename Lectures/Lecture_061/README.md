@@ -1,0 +1,7 @@
+# Recusion Problems
+| Problems                                                                                    |                                                               Solution                                                               |     Source      |
+| :------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------: | :-------------: |
+| [22. Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/) |        [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_061/Lecture_Code/22.cpp)        |    Leetcode     |
+| [78. Subsets](https://leetcode.com/problems/subsets/description/)                           |        [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_061/Lecture_Code/78.cpp)        |    Leetcode     |
+| All Subsets of String                                                                       | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_061/Lecture_Code/subset_of_string.cpp) | System compiler |
+| Sum of all subsequence                                                                      |  [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_061/Homework/sum_of_subsequence.cpp)  | System compiler |
