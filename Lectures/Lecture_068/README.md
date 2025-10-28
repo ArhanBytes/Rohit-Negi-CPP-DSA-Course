@@ -1,0 +1,5 @@
+# Recusion Problems
+| Problems                                                                                  |                                                                  Solution                                                                   | Source |
+| :---------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------: | :----: |
+| [Rat in a Maze](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1)           |      [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_068/Lecture_Code/rat_in_a_maze.cpp)      |  GFG   |
+| [Rat in a Maze Optimized](https://www.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_068/Lecture_Code/rat_in_a_maze_optimized.cpp) |  GFG   |
