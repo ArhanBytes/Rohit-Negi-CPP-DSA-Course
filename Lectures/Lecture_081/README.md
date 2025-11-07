@@ -1,0 +1,9 @@
+# Singly Linked List Problems
+| Problems                                                                                                                                                                           |                                                              Solution                                                               |    Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+| [19. Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_081/Lecture_Code/19.cpp) |     LeetCode     |
+| [Remove every k'th node](https://www.geeksforgeeks.org/problems/remove-every-kth-node/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_081/Lecture_Code/Remove_every_kth_node.cpp) |     LeetCode     |
+| [61. Rotate List using extra space](https://leetcode.com/problems/rotate-list/description/) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_081/Homework/61_extra_space.cpp) |     LeetCode     |
+| [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_081/Lecture_Code/234.cpp) |     LeetCode     |
+| [234. Palindrome Linked List using extra space](https://leetcode.com/problems/palindrome-linked-list/description/) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_081/Homework/234_extra_space.cpp) |     LeetCode     |
+
