@@ -1,0 +1,9 @@
+## Homework Exercise: 
+**Q1:** :  Given an array, convert it into a doubly linked List by inserting each element at the start of the Doubly Linked List. Solve the problem iteratively and Recursively.
+
+**Ans.** You can check the function `insert_at_start_using_recursion` [Here](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_082/Lecture_Code/doubly_linked_list.cpp)
+
+| Problems                                                                                                                                                                           |                                                              Solution                                                               |    Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+| [Q2. Insertion at doubly linked list](https://www.geeksforgeeks.org/problems/insert-a-node-in-doubly-linked-list/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_082/Homework/insertion_at_doubly_linked_list.cpp) |     GFG     |
+| [Q3. Reverse a Doubly Linked List](https://www.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_082/Homework/reverse_a_doubly_linked_list.cpp) |     GFG     
