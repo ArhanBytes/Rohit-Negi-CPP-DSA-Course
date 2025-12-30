@@ -1,0 +1,5 @@
+ #  Stack Problems
+| Problems                                                                                                       |                                                                        Solution                                                                         | Source |
+| :------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
+| [Two Stacks in an Array](https://www.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_095/Lecture_Code/two_stacks_in_an_array.cpp) |  GFG   |
+| [N Stack in an array](https://www.naukri.com/code360/problems/n-stacks-in-an-array_1164271?leftPanelTabValue=PROBLEM) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_095/Lecture_Code/n_stack_in_an_array.cpp) |  CodingNinjas  |
