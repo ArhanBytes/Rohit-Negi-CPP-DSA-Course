@@ -1,0 +1,8 @@
+###  Construct Tree from Inorder & Preorder | Tree from Postorder and Inorder 
+
+![Image](https://github.com/user-attachments/assets/bf4fa7fe-5c41-4ea2-ac46-06bb2c6edf19)
+| Problems                                                                                                                                                                           |                                                              Solution                                                               |    Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+| [Construct Tree from Inorder & Preorder](https://www.geeksforgeeks.org/problems/construct-tree-1/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_107/Lecture_Code/construct_tree_from_inorder_and_preorder.cpp) |     GFG     |
+| [Construct Tree from Inorder & Postorder](https://www.geeksforgeeks.org/problems/tree-from-postorder-and-inorder/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_107/Lecture_Code/construct_tree_from_inorder_and_postorder.cpp) |     GFG     |
+| [Check Tree Traversal](https://www.geeksforgeeks.org/problems/check-tree-traversal--141628/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_107/Lecture_Code/check_tree_traversal.cpp) |     GFG     |
