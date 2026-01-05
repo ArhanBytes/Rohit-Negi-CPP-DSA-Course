@@ -1,0 +1,8 @@
+###  Binary Tree Traversal: Vertical Traversal of Binary Tree | Diagonal Traversal | Boundary Traversal
+
+![Image](https://github.com/user-attachments/assets/8c38681b-bd15-41ec-834c-2b879f03f690)
+| Problems                                                                                                                                                                           |                                                              Solution                                                               |    Source    |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | :----------: |
+| [Vertical Tree Traversal](https://www.geeksforgeeks.org/problems/print-a-binary-tree-in-vertical-order/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_108/Lecture_Code/vertical_tree_traversal.cpp) |     GFG     |
+| [Diagonal Tree Traversal](https://www.geeksforgeeks.org/problems/diagonal-traversal-of-binary-tree/1) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_108/Lecture_Code/diagonal_tree_traversal.cpp) |     GFG     |
+| [Tree Boundary Traversal](https://www.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1?page=1&difficulty%5B%5D=1&category%5B%5D=Tree&sortBy=submissions) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_108/Lecture_Code/tree_boundary_traversal.cpp) |     GFG     |
