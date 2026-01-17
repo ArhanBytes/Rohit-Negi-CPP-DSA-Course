@@ -1,4 +1,4 @@
-###  Binary Tree Traversal: Vertical Traversal of Binary Tree | Diagonal Traversal | Boundary Traversal
+###  Binary Tree Traversal: Vertical Traversal | Diagonal Traversal | Boundary Traversal
 
 ![Image](https://github.com/user-attachments/assets/8c38681b-bd15-41ec-834c-2b879f03f690)
 | Problems                                                                                                                                                                           |                                                              Solution                                                               |    Source    |
