@@ -1,24 +1,14 @@
-#include <iostream>
-using namespace std;
-
-bool isPrime(int num, int N)
-{
-    // base case
-    if (num == N)
-        return true;
-
-    if (N % num == 0)
-        return false;
-    else
-        return isPrime(num + 1, N);
-}
-
-int main()
-{
-    int N = 10;
-    if (N >= 0)
-        cout << "is " << N << " is a Prime? " << (isPrime(2, N) ? "Yes" : "No");
-    else
-        cout << "Ain't possible mate.. ";
-    return 0;
-}
+class Solution {
+public:
+    bool isPowerOfFour(int n) {
+        // Base cases
+        if (n <= 0) return false;
+        if (n == 1) return true;
+        
+        // If not divisible by 4, it's not a power of 4
+        if (n % 4 != 0)
+            return false;
+        else
+            return isPowerOfFour(n / 4);
+    }
+};
