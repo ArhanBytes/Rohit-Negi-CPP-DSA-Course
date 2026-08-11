@@ -1,3 +1,8 @@
+#  Circular Linked List 
+| Implementation                                                                                                                                                                              
+ :--------------------------------------------------------------------------------------------------------------------------- | 
+[Singly Circular Linked List](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_084/Homework/Singly_circular_linked_list_SCLL.cpp)   
+[Doubly Circular Linked List](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_084/Homework/Doubly_circular_linked_list_DCLL.cpp)   
 #  Linked List Problems
 | Problems                                                                                                                     |                                                                       Solution                                                                        | Source |
 | :--------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :----: |
