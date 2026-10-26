@@ -1,4 +1,6 @@
 #  Binary tree Problems
+
+![Image](https://github.com/user-attachments/assets/a6cb914a-40ee-46c0-b611-ae6ae19470d4)
 | Problems                                                                                                                                                                           |                                                              Solution                                                               |    Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | :----------: |
 | [Level order traversal](https://www.geeksforgeeks.org/problems/level-order-traversal/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_102/Homework/LevelOrderTraversal.cpp) |     GFG     |
