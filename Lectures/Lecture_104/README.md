@@ -1,4 +1,7 @@
 #  Binary tree Problems
+
+![Image](https://github.com/user-attachments/assets/d6669f44-1928-43b7-bb2f-18754637ac4c)
+
 | Problems                                                                                                                                                                           |                                                              Solution                                                               |    Source    |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | :----------: |
 | [Identical Trees](https://www.geeksforgeeks.org/problems/determine-if-two-trees-are-identical/1?page=1&difficulty%5B%5D=0&category%5B%5D=Tree&sortBy=submissions) | [Solution](https://github.com/ArhanBytes/Rohit-Negi-CPP-DSA-Course/blob/main/Lectures/Lecture_104/Lecture_Code/identical_trees.cpp) |     GFG     |
