@@ -53,12 +53,12 @@ public:
                 // haven't explored yet
                 if (temp->right == NULL)
                 {
-                    temp->right = curr; // create the link
-                    curr = curr->left; // move to left
+                    temp->right = curr;
+                    curr = curr->left;
                 }
                 else // already explored
                 {
-                    temp->right = NULL; // remove the link
+                    temp->right = NULL;
 
                     prev->right = curr;
                     curr->left = prev;
